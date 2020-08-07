@@ -1,2 +1,2 @@
 # python-config-manager
-A Simple Config Manager, which loads external config file for application configuration
+A Simple Example of using *pyconfigmanager* package, which loads external config file for application configuration
